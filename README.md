@@ -22,6 +22,8 @@
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35"/> </a> &nbsp;&nbsp;
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="35" height="35"/> </a> &nbsp;&nbsp;
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/> </a> &nbsp;&nbsp;
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="35" height="35"/> </a> &nbsp;&nbsp;
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/langchain.svg" alt="langchain" width="35" height="35"/> </a> &nbsp;&nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/> </a> &nbsp;&nbsp;
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="35" height="35"/> </a> &nbsp;&nbsp;
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="35" height="35"/> </a>
