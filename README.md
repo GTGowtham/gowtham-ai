@@ -10,13 +10,12 @@ Tech Stack:
 Python | PyTorch | scikit-learn | SQL | Power BI | Streamlit
 
 📫 Reach me:
-
 <a href="mailto:gowthamayyappan47@gmail.com">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="20" height="20"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gowtham-a-8b2310249/">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="32" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="20" height="20"/>
 </a>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
