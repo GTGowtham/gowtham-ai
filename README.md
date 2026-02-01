@@ -8,14 +8,16 @@ Aspiring AI engineer focused on practical ML systems and data pipelines and rag 
 Tech Stack:
 Python | PyTorch | scikit-learn | SQL | Power BI | Streamlit
 
-📫 Reach me:  
+<p align="left">
+📫 Reach me: 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gowthamayyappan47@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="25" height="25" style="vertical-align: middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="25" height="25"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gowtham-a-8b2310249/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="25" height="25" style="vertical-align: middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="25" height="25"/>
 </a>
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
