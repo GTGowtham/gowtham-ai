@@ -2,7 +2,7 @@ Hi 👋 I'm Gowtham
 
 Aspiring AI engineer focused on practical ML systems and data pipelines.
 
-- Currently building: thought classification + dashboards
+- Currently building: thought classification + rag chatbot + dashboards
 - Learning: model deployment, retrieval systems, optimization
 - Interests: applied AI, automation, decision systems
 
