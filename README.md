@@ -10,7 +10,8 @@ Tech Stack:
 Python | PyTorch | scikit-learn | SQL | Power BI | Streamlit
 
 Reach me:
-email | LinkedIn | portfolio
+[![Email](https://img.shields.io/badge/Email-contact-blue?style=flat&logo=gmail)](mailto:gowthamayyappan47@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gowtham-a-8b2310249/)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
