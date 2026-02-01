@@ -9,8 +9,7 @@ Aspiring AI engineer focused on practical ML systems and data pipelines and rag 
 Tech Stack:
 Python | PyTorch | scikit-learn | SQL | Power BI | Streamlit
 
-📫 Reach me:
-<a href="mailto:gowthamayyappan47@gmail.com">
+📫 Reach me:<a href="mailto:gowthamayyappan47@gmail.com">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="20" height="20"/>
 </a>
 &nbsp;&nbsp;
