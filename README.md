@@ -9,8 +9,13 @@ Tech Stack:
 Python | PyTorch | scikit-learn | SQL | Power BI | Streamlit
 
 📫 Reach me:  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gowthamayyappan47@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-a-8b2310249/)
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=gowthamayyappan47@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="25" height="25" style="vertical-align: middle;"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gowtham-a-8b2310249/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="25" height="25" style="vertical-align: middle;"/>
+</a>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
